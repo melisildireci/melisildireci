@@ -3,18 +3,17 @@
 
 
 ### JUST CODE IT
-### 🔭 I’m currently working oncomputer vision.
+### 🔭 I’m currently working on computer vision.
 
 ### 📫 How to reach me: melisildireci11@gmail.com
 ### ✨ My Linkedln account: Melis İldireci
 
 
-### Programming Languages
-
-### Python
-### C
+### Programming Languages: Python-C
 ### Matlab
 ### ROS
+
+
 
 
 
