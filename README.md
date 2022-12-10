@@ -1,5 +1,27 @@
 ### Hi there 👋
-### melis
+### Melis İldireci  
+
+
+### JUST CODE IT
+### 🔭 I’m currently working oncomputer vision.
+
+### 📫 How to reach me: melisildireci11@gmail.com
+### ✨ My Linkedln account: Melis İldireci
+
+
+### Programming Languages
+
+### Python
+### C
+### Matlab
+### ROS
+
+
+
+
+
+
+
 <!--
 **melisildireci/melisildireci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
