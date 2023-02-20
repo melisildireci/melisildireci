@@ -11,7 +11,7 @@
 
 ### Programming Languages: Python-C
 ### Matlab
-### ROS
+### Computer Vision
 
 
 
